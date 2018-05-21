@@ -3,3 +3,6 @@ A presentation for "Vue vs React - Which one should you choose for your next pro
 
 - Recorded Voice:
 https://drive.google.com/file/d/193KwOYhyVsP-1OH8qRJ0pDcbcjeWzcJa/view?usp=sharing
+
+- Video (attached recorded audio)
+https://youtu.be/eUE_V1JjyMw
